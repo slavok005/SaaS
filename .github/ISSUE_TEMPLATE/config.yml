@@ -2,4 +2,4 @@ blank_issues_enabled: false
 contact_links:
   - name: Вопросы и обсуждения
     url: https://github.com/USER/REPO/discussions
-    about: Используйте "Discussions" для вопросов
+    about: Используйте "Discussions" для вопросов и идей
