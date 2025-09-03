@@ -1,15 +1,5 @@
 [build]
   command = "npm run build"
-  publish = "."  # корень проекта
-
-[[plugins]]
-  package = "@netlify/plugin-nextjs"
-[[redirects]]
-  from = "/*"
-  to = "/index.html"
-  status = 200
-[build]
-  command = "npm run build"
   publish = ".next"
 
 [[plugins]]
